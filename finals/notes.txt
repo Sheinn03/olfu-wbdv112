@@ -1,3 +1,8 @@
 Shopping Cart using PHP and MySQL: 
 Step by Step
 Link: https://www.youtube.com/watch?v=1mp07jjbxdM&list=PL-h5aNeRKouEIsAFGeS-yhw97mQumSak-&index=48
+
+Video Link:
+https://drive.google.com/drive/folders/1lWy0meO9Xop1WjiRatHnDjp87QB53XSZ?usp=sharing
+
+Note: Make sure to use your OLFU email
